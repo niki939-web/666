@@ -29,5 +29,7 @@
 |is_active | bool | Контроль роботи додатку|
  
 ## 4. Архітектура та Дизайн
-- 🗺️ **Схема логіки:** [Посилання на Draw.io]
-- 🎨 **Дизайн:** [Посилання на Figma]
+- 🗺️ **Схема логіки:** [https://app.diagrams.net/?src=about]
+- 🎨 **Дизайн:** [<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1bef90de-1311-4a38-ac32-e028e62d7879" />
+]
+
